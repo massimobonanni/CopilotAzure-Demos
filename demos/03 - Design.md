@@ -1,6 +1,7 @@
 # DEMO 03 - Design
 
 1) Open Copilot in Azure Portal
+
 2) Write the following prompt:
 
 ```
@@ -8,6 +9,7 @@ Help me design my cloud architecture. I want to follow what I read about Azure S
 ```
 
 3) The answer should be the official documentation
+
 4) Write the following propmpt:
 
 ```
@@ -15,6 +17,7 @@ Ok i want to follow this. Do I assign this policy set on my root management grou
 ```
 
 5) The answer should be a step-by-step tutorial to complete the operation
+
 6) Write the following prompt:
 
 ```

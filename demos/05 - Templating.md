@@ -1,6 +1,7 @@
 # DEMO 05 - Templating
 
 1) Open Copilot in Azure Portal
+
 2) Write the following prompt:
 
 ```
@@ -8,7 +9,9 @@ Generate the Azure Resource Manager template I need me to copy and paste to a fi
 ```
 
 3) The answer should be an ARM template
+
 4) Copy the template in a VS Code file to check that all the resources are there
+
 5) Write the following prompt in Copilot:
 
 ```
@@ -16,6 +19,7 @@ Convert it to bicep
 ```
 
 6) The answer should be a Bicep template
+
 7) Write the following prompt
 
 ```
