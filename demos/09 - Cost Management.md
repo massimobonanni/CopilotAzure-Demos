@@ -5,7 +5,7 @@
 2) Write the following prompt:
 
 ```
-'how much i'm spending for the resource <resource name>?
+how much i'm spending for the resource <resource name>?
 ```
 
 3) The answer should be the cost of the resource `<resource name>` in the last period.
@@ -13,7 +13,7 @@
 4) Write the following prompt:
 
 ```
-Show me the cost for the resource wpc2024openai in the last one month for each week
+Show me the cost for the resource <resource name> in the last one month for each week
 ```
 
 5) Copilot should return two answer: the total cost in the last month and the distribution in every week
